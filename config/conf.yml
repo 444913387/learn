@@ -1,0 +1,7 @@
+BASE:
+  #log等级
+  log_level: 'debug'
+  #扩展名
+  log_extension: '.log'
+  test:
+    url: 'https://www.baidu.com'
